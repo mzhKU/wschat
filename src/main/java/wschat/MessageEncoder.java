@@ -1,4 +1,4 @@
-package wstut;
+package wschat;
 
 import com.google.gson.Gson;
 

@@ -1,4 +1,4 @@
-package wstut;
+package wschat;
 
 public class Message {
     private String from;

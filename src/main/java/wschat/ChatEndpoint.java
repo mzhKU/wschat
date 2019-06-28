@@ -1,6 +1,4 @@
-package wstut;
-
-import wstut.Message;
+package wschat;
 
 import javax.websocket.*;
 import javax.websocket.server.PathParam;
